@@ -1,0 +1,22 @@
+POST http://localhost:8081/inscription HTTP/1.1
+content-type: application/json
+
+{
+    "firstName": "John", 
+    "lastName": "Doe", 
+    "email": "ismail@g.com", 
+    "password": "1234567890"
+}
+
+
+###
+POST http://localhost:8081/connexion HTTP/1.1
+content-type: application/json
+
+{
+    "email": "yyyy@m.com",
+    "password": "123456890"
+}
+
+###
+GET http://localhost:8081/produits HTTP/1.1

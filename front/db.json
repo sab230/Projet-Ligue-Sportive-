@@ -1,0 +1,72 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Ballon",
+            "brand": "Nike",
+            "price": 100,
+            "quantity": 10,
+            "image": "https://www.intersport-clubs.fr/media/cache/wishibam_shop_product_thumbnail/f2/ee/9ca8b9bdab5f0867181fa7998687.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Maillot",
+            "brand": "Adidas",
+            "price": 40,
+            "quantity": 25,
+            "image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/a04f17bfb34b43b0941bada000e4a060_9366/Maillot_Entrada_22_Noir_H57497_01_laydown.jpg",
+            "sizes": [
+                "S",
+                "M",
+                "L",
+                "XL"
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Chaussure",
+            "brand": "Puma",
+            "price": 150,
+            "quantity": 25,
+            "image": "https://www.districenter.fr/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/4/0/4025072-900f-fp.jpg",
+            "sizes": [
+                "40",
+                "41",
+                "42",
+                "43",
+                "44",
+                "45"
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Chaussette",
+            "brand": "Nike",
+            "price": 10,
+            "quantity": 25,
+            "image": "https://static.nike.com/a/images/t_default/d715d25a-d3fe-4c2a-a345-af995ef1e2c4/chaussettes-mi-mollet-sportswear-everyday-essential-vGLL3J.png",
+            "sizes": [
+                "40",
+                "41",
+                "42",
+                "43",
+                "44",
+                "45"
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Short",
+            "brand": "Adidas",
+            "price": 30,
+            "quantity": 25,
+            "image": "https://www.sport2000.fr/media/cache/sylius_shop_product_original/aj9994-015-sport2000/web-aj9994-015-01.jpg",
+            "sizes": [
+                "S",
+                "M",
+                "L",
+                "XL"
+            ]
+        }
+    ]
+}
